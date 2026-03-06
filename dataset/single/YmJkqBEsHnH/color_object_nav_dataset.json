@@ -1,0 +1,302 @@
+[
+  {
+    "task_id": 0,
+    "scene": "YmJkqBEsHnH",
+    "map_grid_size": 1000,
+    "map_cell_size": 0.05,
+    "tf_habitat": [
+      [
+        -0.9961947202682495,
+        0.0,
+        0.08715514093637466,
+        0.25719448924064636
+      ],
+      [
+        0.0,
+        1.0,
+        0.0,
+        0.17984461784362793
+      ],
+      [
+        -0.08715514093637466,
+        0.0,
+        -0.9961947202682495,
+        2.340291976928711
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "objects_info": [
+      {
+        "name": "window",
+        "object_id": "0_0_4",
+        "semantic_id": 4,
+        "color": [
+          "dark purplish-gray",
+          "very pale-purple"
+        ],
+        "color_name": "dark purplish-gray and very pale-purple window",
+        "color_value": [
+          [
+            93,
+            91,
+            96
+          ],
+          [
+            216,
+            219,
+            223
+          ]
+        ],
+        "position": [
+          -0.8784719705581665,
+          1.7807793617248535,
+          4.976319313049316
+        ],
+        "radius": 1.5381498336791992,
+        "visible_pixels": 209458
+      },
+      {
+        "name": "chair",
+        "object_id": "0_1_75",
+        "semantic_id": 75,
+        "color": [
+          "deep reddish-purple",
+          "pale-pink"
+        ],
+        "color_name": "deep reddish-purple and pale-pink chair",
+        "color_value": [
+          [
+            118,
+            90,
+            89
+          ],
+          [
+            221,
+            216,
+            220
+          ]
+        ],
+        "position": [
+          1.8093299865722656,
+          0.6163010597229004,
+          4.668479919433594
+        ],
+        "radius": 0.48877596855163574,
+        "visible_pixels": 102548
+      },
+      {
+        "name": "seating",
+        "object_id": "0_0_52",
+        "semantic_id": 52,
+        "color": [
+          "light-brown",
+          "grayish yellowish-pink"
+        ],
+        "color_name": "light-brown and grayish yellowish-pink seating",
+        "color_value": [
+          [
+            157,
+            109,
+            84
+          ],
+          [
+            189,
+            161,
+            152
+          ]
+        ],
+        "position": [
+          -0.9317479133605957,
+          0.4150199890136719,
+          3.912059783935547
+        ],
+        "radius": 1.1111000776290894,
+        "visible_pixels": 335999
+      },
+      {
+        "name": "stairs",
+        "object_id": "0_0_14",
+        "semantic_id": 14,
+        "color": [
+          "dark grayish-purple",
+          "pale-green"
+        ],
+        "color_name": "dark grayish-purple and pale-green stairs",
+        "color_value": [
+          [
+            78,
+            71,
+            72
+          ],
+          [
+            156,
+            151,
+            150
+          ]
+        ],
+        "position": [
+          -10.750499725341797,
+          1.5411200523376465,
+          -0.10559296607971191
+        ],
+        "radius": 1.3670401573181152,
+        "visible_pixels": 85904
+      }
+    ]
+  },
+  {
+    "task_id": 1,
+    "scene": "YmJkqBEsHnH",
+    "map_grid_size": 1000,
+    "map_cell_size": 0.05,
+    "tf_habitat": [
+      [
+        -0.08715534210205078,
+        0.0,
+        0.9961947798728943,
+        -9.79836368560791
+      ],
+      [
+        -0.0,
+        1.0,
+        0.0,
+        0.2303389310836792
+      ],
+      [
+        -0.9961947798728943,
+        -0.0,
+        -0.08715534210205078,
+        2.3707849979400635
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "objects_info": [
+      {
+        "name": "column",
+        "object_id": "0_0_30",
+        "semantic_id": 30,
+        "color": [
+          "pale-blue",
+          "grayish-green"
+        ],
+        "color_name": "pale-blue and grayish-green column",
+        "color_value": [
+          [
+            161,
+            161,
+            185
+          ],
+          [
+            106,
+            103,
+            111
+          ]
+        ],
+        "position": [
+          -11.34060001373291,
+          1.4692200422286987,
+          3.157449722290039
+        ],
+        "radius": 1.3830899000167847,
+        "visible_pixels": 7892
+      },
+      {
+        "name": "chair",
+        "object_id": "0_1_75",
+        "semantic_id": 75,
+        "color": [
+          "grayish reddish-brown",
+          "very pale-purple"
+        ],
+        "color_name": "grayish reddish-brown and very pale-purple chair",
+        "color_value": [
+          [
+            108,
+            79,
+            79
+          ],
+          [
+            220,
+            212,
+            216
+          ]
+        ],
+        "position": [
+          1.8093299865722656,
+          0.6163010597229004,
+          4.668479919433594
+        ],
+        "radius": 0.48877596855163574,
+        "visible_pixels": 49654
+      },
+      {
+        "name": "seating",
+        "object_id": "0_0_52",
+        "semantic_id": 52,
+        "color": [
+          "light-brown",
+          "grayish yellowish-pink"
+        ],
+        "color_name": "light-brown and grayish yellowish-pink seating",
+        "color_value": [
+          [
+            156,
+            111,
+            87
+          ],
+          [
+            191,
+            162,
+            155
+          ]
+        ],
+        "position": [
+          -0.9317479133605957,
+          0.4150199890136719,
+          3.912059783935547
+        ],
+        "radius": 1.1111000776290894,
+        "visible_pixels": 69892
+      },
+      {
+        "name": "window",
+        "object_id": "0_0_4",
+        "semantic_id": 4,
+        "color": [
+          "dark purplish-gray",
+          "very pale-purple"
+        ],
+        "color_name": "dark purplish-gray and very pale-purple window",
+        "color_value": [
+          [
+            91,
+            90,
+            97
+          ],
+          [
+            211,
+            213,
+            219
+          ]
+        ],
+        "position": [
+          -0.8784719705581665,
+          1.7807793617248535,
+          4.976319313049316
+        ],
+        "radius": 1.5381498336791992,
+        "visible_pixels": 105279
+      }
+    ]
+  }
+]

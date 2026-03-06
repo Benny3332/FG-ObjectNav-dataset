@@ -1,0 +1,1028 @@
+[
+  {
+    "task_id": 0,
+    "scene": "UwV83HsGsw3",
+    "map_grid_size": 1000,
+    "map_cell_size": 0.05,
+    "tf_habitat": [
+      [
+        1.0,
+        0.0,
+        0.0,
+        -3.706129312515259
+      ],
+      [
+        0.0,
+        1.0,
+        0.0,
+        0.5905284881591797
+      ],
+      [
+        0.0,
+        0.0,
+        1.0,
+        1.055219292640686
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "objects_info": [
+      {
+        "name": "counter",
+        "object_id": "1_11_220",
+        "semantic_id": 220,
+        "color": [
+          "pinkish-gray"
+        ],
+        "color_name": "pinkish-gray counter",
+        "color_value": [
+          [
+            190,
+            186,
+            177
+          ]
+        ],
+        "position": [
+          -11.48960018157959,
+          0.8700370788574219,
+          8.286879539489746
+        ],
+        "radius": 2.456509590148926,
+        "visible_pixels": 58532
+      },
+      {
+        "name": "shelving",
+        "object_id": "1_11_213",
+        "semantic_id": 213,
+        "color": [
+          "pale-green",
+          "medium-gray"
+        ],
+        "color_name": "pale-green and medium-gray shelving",
+        "color_value": [
+          [
+            144,
+            147,
+            148
+          ],
+          [
+            88,
+            89,
+            87
+          ]
+        ],
+        "position": [
+          -11.25,
+          1.3583099842071533,
+          4.323599815368652
+        ],
+        "radius": 1.7334299087524414,
+        "visible_pixels": 80795
+      },
+      {
+        "name": "table",
+        "object_id": "1_8_150",
+        "semantic_id": 150,
+        "color": [
+          "dark grayish-yellow",
+          "moderate yellowish-brown"
+        ],
+        "color_name": "dark grayish-yellow and moderate yellowish-brown table",
+        "color_value": [
+          [
+            178,
+            138,
+            96
+          ],
+          [
+            121,
+            94,
+            66
+          ]
+        ],
+        "position": [
+          -6.262650012969971,
+          0.7442400455474854,
+          -1.0338900089263916
+        ],
+        "radius": 1.607679843902588,
+        "visible_pixels": 55335
+      },
+      {
+        "name": "chair",
+        "object_id": "1_11_217",
+        "semantic_id": 217,
+        "color": [
+          "dark grayish-blue"
+        ],
+        "color_name": "dark grayish-blue chair",
+        "color_value": [
+          [
+            50,
+            57,
+            67
+          ]
+        ],
+        "position": [
+          -15.48289966583252,
+          0.6111273765563965,
+          7.1640496253967285
+        ],
+        "radius": 0.4242105484008789,
+        "visible_pixels": 9331
+      }
+    ]
+  },
+  {
+    "task_id": 1,
+    "scene": "UwV83HsGsw3",
+    "map_grid_size": 1000,
+    "map_cell_size": 0.05,
+    "tf_habitat": [
+      [
+        1.0,
+        0.0,
+        5.960464477539062e-07,
+        -15.235225677490234
+      ],
+      [
+        -0.0,
+        1.0,
+        0.0,
+        0.11892050504684448
+      ],
+      [
+        -5.960464477539062e-07,
+        -0.0,
+        1.0,
+        4.636582851409912
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "objects_info": [
+      {
+        "name": "stairs",
+        "object_id": "1_8_155",
+        "semantic_id": 155,
+        "color": [
+          "purplish-gray",
+          "grayish-brown"
+        ],
+        "color_name": "purplish-gray and grayish-brown stairs",
+        "color_value": [
+          [
+            137,
+            136,
+            131
+          ],
+          [
+            104,
+            93,
+            75
+          ]
+        ],
+        "position": [
+          -5.5724101066589355,
+          0.3929470181465149,
+          0.9407310485839844
+        ],
+        "radius": 2.790250301361084,
+        "visible_pixels": 380
+      },
+      {
+        "name": "table",
+        "object_id": "1_8_150",
+        "semantic_id": 150,
+        "color": [
+          "dark grayish-yellow",
+          "grayish-brown"
+        ],
+        "color_name": "dark grayish-yellow and grayish-brown table",
+        "color_value": [
+          [
+            174,
+            139,
+            102
+          ],
+          [
+            111,
+            94,
+            72
+          ]
+        ],
+        "position": [
+          -6.262650012969971,
+          0.7442400455474854,
+          -1.0338900089263916
+        ],
+        "radius": 1.607679843902588,
+        "visible_pixels": 21962
+      },
+      {
+        "name": "plant",
+        "object_id": "1_8_156",
+        "semantic_id": 156,
+        "color": [
+          "grayish yellow-green",
+          "grayish-olive"
+        ],
+        "color_name": "grayish yellow-green and grayish-olive plant",
+        "color_value": [
+          [
+            149,
+            150,
+            136
+          ],
+          [
+            95,
+            98,
+            68
+          ]
+        ],
+        "position": [
+          -3.628040313720703,
+          1.6917698383331299,
+          -3.3239200115203857
+        ],
+        "radius": 0.642441987991333,
+        "visible_pixels": 10232
+      },
+      {
+        "name": "cushion",
+        "object_id": "1_9_189",
+        "semantic_id": 189,
+        "color": [
+          "very pale-purple",
+          "pale-green"
+        ],
+        "color_name": "very pale-purple and pale-green cushion",
+        "color_value": [
+          [
+            209,
+            212,
+            216
+          ],
+          [
+            154,
+            155,
+            151
+          ]
+        ],
+        "position": [
+          -14.308600425720215,
+          0.6999809741973877,
+          -1.0150400400161743
+        ],
+        "radius": 0.3986400365829468,
+        "visible_pixels": 18248
+      }
+    ]
+  },
+  {
+    "task_id": 2,
+    "scene": "UwV83HsGsw3",
+    "map_grid_size": 1000,
+    "map_cell_size": 0.05,
+    "tf_habitat": [
+      [
+        -1.0,
+        0.0,
+        -1.1026859283447266e-06,
+        -8.995870590209961
+      ],
+      [
+        0.0,
+        1.0,
+        0.0,
+        -0.009471535682678223
+      ],
+      [
+        1.1026859283447266e-06,
+        0.0,
+        -1.0,
+        7.363607883453369
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "objects_info": [
+      {
+        "name": "door",
+        "object_id": "1_13_261",
+        "semantic_id": 261,
+        "color": [
+          "grayish yellow-green"
+        ],
+        "color_name": "grayish yellow-green door",
+        "color_value": [
+          [
+            153,
+            145,
+            127
+          ]
+        ],
+        "position": [
+          -9.358240127563477,
+          1.4373493194580078,
+          12.493999481201172
+        ],
+        "radius": 1.382079839706421,
+        "visible_pixels": 155011
+      },
+      {
+        "name": "chair",
+        "object_id": "1_12_238",
+        "semantic_id": 238,
+        "color": [
+          "dark-gray",
+          "light brownish-gray"
+        ],
+        "color_name": "dark-gray and light brownish-gray chair",
+        "color_value": [
+          [
+            34,
+            32,
+            31
+          ],
+          [
+            137,
+            129,
+            120
+          ]
+        ],
+        "position": [
+          -14.554200172424316,
+          0.5435237884521484,
+          12.059200286865234
+        ],
+        "radius": 0.6413211822509766,
+        "visible_pixels": 34659
+      },
+      {
+        "name": "appliances",
+        "object_id": "1_16_301",
+        "semantic_id": 301,
+        "color": [
+          "light bluish-gray",
+          "dark grayish olive-green"
+        ],
+        "color_name": "light bluish-gray and dark grayish olive-green appliances",
+        "color_value": [
+          [
+            163,
+            175,
+            189
+          ],
+          [
+            51,
+            53,
+            55
+          ]
+        ],
+        "position": [
+          -7.528380393981934,
+          0.6191806793212891,
+          10.560600280761719
+        ],
+        "radius": 0.7126801013946533,
+        "visible_pixels": 112324
+      },
+      {
+        "name": "toilet",
+        "object_id": "1_15_294",
+        "semantic_id": 294,
+        "color": [
+          "yellowish-gray",
+          "grayish yellowish-brown"
+        ],
+        "color_name": "yellowish-gray and grayish yellowish-brown toilet",
+        "color_value": [
+          [
+            199,
+            185,
+            164
+          ],
+          [
+            135,
+            120,
+            98
+          ]
+        ],
+        "position": [
+          -6.588029861450195,
+          0.44355201721191406,
+          11.712300300598145
+        ],
+        "radius": 0.3925209045410156,
+        "visible_pixels": 18899
+      }
+    ]
+  },
+  {
+    "task_id": 3,
+    "scene": "UwV83HsGsw3",
+    "map_grid_size": 1000,
+    "map_cell_size": 0.05,
+    "tf_habitat": [
+      [
+        1.0,
+        0.0,
+        1.1399388313293457e-06,
+        -14.723603248596191
+      ],
+      [
+        0.0,
+        1.0,
+        0.0,
+        0.19052839279174805
+      ],
+      [
+        -1.1399388313293457e-06,
+        0.0,
+        1.0,
+        16.45123863220215
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "objects_info": [
+      {
+        "name": "chair",
+        "object_id": "1_12_238",
+        "semantic_id": 238,
+        "color": [
+          "greenish-black",
+          "purplish-gray"
+        ],
+        "color_name": "greenish-black and purplish-gray chair",
+        "color_value": [
+          [
+            31,
+            30,
+            29
+          ],
+          [
+            146,
+            147,
+            145
+          ]
+        ],
+        "position": [
+          -14.554200172424316,
+          0.5435237884521484,
+          12.059200286865234
+        ],
+        "radius": 0.6413211822509766,
+        "visible_pixels": 28890
+      },
+      {
+        "name": "table",
+        "object_id": "1_11_216",
+        "semantic_id": 216,
+        "color": [
+          "light-gray",
+          "greenish-gray"
+        ],
+        "color_name": "light-gray and greenish-gray table",
+        "color_value": [
+          [
+            177,
+            176,
+            178
+          ],
+          [
+            125,
+            129,
+            131
+          ]
+        ],
+        "position": [
+          -12.727999687194824,
+          0.5991835594177246,
+          7.396470069885254
+        ],
+        "radius": 1.5245602130889893,
+        "visible_pixels": 62995
+      },
+      {
+        "name": "appliances",
+        "object_id": "1_11_223",
+        "semantic_id": 223,
+        "color": [
+          "grayish-green",
+          "pale-green"
+        ],
+        "color_name": "grayish-green and pale-green appliances",
+        "color_value": [
+          [
+            111,
+            111,
+            103
+          ],
+          [
+            149,
+            153,
+            150
+          ]
+        ],
+        "position": [
+          -11.604499816894531,
+          1.159909963607788,
+          4.6376800537109375
+        ],
+        "radius": 1.027899980545044,
+        "visible_pixels": 88102
+      },
+      {
+        "name": "toilet",
+        "object_id": "1_10_204",
+        "semantic_id": 204,
+        "color": [
+          "yellowish-white",
+          "light grayish reddish-brown"
+        ],
+        "color_name": "yellowish-white and light grayish reddish-brown toilet",
+        "color_value": [
+          [
+            241,
+            225,
+            207
+          ],
+          [
+            160,
+            140,
+            117
+          ]
+        ],
+        "position": [
+          -7.8990797996521,
+          0.374178409576416,
+          4.894819736480713
+        ],
+        "radius": 0.3780531883239746,
+        "visible_pixels": 26376
+      }
+    ]
+  },
+  {
+    "task_id": 4,
+    "scene": "UwV83HsGsw3",
+    "map_grid_size": 1000,
+    "map_cell_size": 0.05,
+    "tf_habitat": [
+      [
+        -1.1920928955078125e-06,
+        0.0,
+        1.0000001192092896,
+        -16.70850372314453
+      ],
+      [
+        -0.0,
+        1.0,
+        0.0,
+        0.12369593232870102
+      ],
+      [
+        -1.0000001192092896,
+        -0.0,
+        -1.1920928955078125e-06,
+        0.027370691299438477
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "objects_info": [
+      {
+        "name": "stairs",
+        "object_id": "1_8_155",
+        "semantic_id": 155,
+        "color": [
+          "reddish-gray",
+          "grayish-green"
+        ],
+        "color_name": "reddish-gray and grayish-green stairs",
+        "color_value": [
+          [
+            133,
+            132,
+            126
+          ],
+          [
+            104,
+            103,
+            99
+          ]
+        ],
+        "position": [
+          -5.5724101066589355,
+          0.3929470181465149,
+          0.9407310485839844
+        ],
+        "radius": 2.790250301361084,
+        "visible_pixels": 21903
+      },
+      {
+        "name": "toilet",
+        "object_id": "1_10_204",
+        "semantic_id": 204,
+        "color": [
+          "yellowish-white",
+          "light grayish yellowish-brown"
+        ],
+        "color_name": "yellowish-white and light grayish yellowish-brown toilet",
+        "color_value": [
+          [
+            238,
+            222,
+            204
+          ],
+          [
+            169,
+            147,
+            123
+          ]
+        ],
+        "position": [
+          -7.8990797996521,
+          0.374178409576416,
+          4.894819736480713
+        ],
+        "radius": 0.3780531883239746,
+        "visible_pixels": 24354
+      },
+      {
+        "name": "shelving",
+        "object_id": "1_11_213",
+        "semantic_id": 213,
+        "color": [
+          "dark grayish-red",
+          "dark purplish-gray"
+        ],
+        "color_name": "dark grayish-red and dark purplish-gray shelving",
+        "color_value": [
+          [
+            77,
+            70,
+            60
+          ],
+          [
+            104,
+            99,
+            91
+          ]
+        ],
+        "position": [
+          -11.25,
+          1.3583099842071533,
+          4.323599815368652
+        ],
+        "radius": 1.7334299087524414,
+        "visible_pixels": 225830
+      },
+      {
+        "name": "lighting",
+        "object_id": "1_12_250",
+        "semantic_id": 250,
+        "color": [
+          "pale-purple",
+          "light purplish-gray"
+        ],
+        "color_name": "pale-purple and light purplish-gray lighting",
+        "color_value": [
+          [
+            162,
+            168,
+            167
+          ],
+          [
+            205,
+            204,
+            196
+          ]
+        ],
+        "position": [
+          -13.505399703979492,
+          0.8701515197753906,
+          16.27739906311035
+        ],
+        "radius": 0.7880599498748779,
+        "visible_pixels": 22255
+      }
+    ]
+  },
+  {
+    "task_id": 5,
+    "scene": "UwV83HsGsw3",
+    "map_grid_size": 1000,
+    "map_cell_size": 0.05,
+    "tf_habitat": [
+      [
+        0.08715492486953735,
+        0.0,
+        0.9961947202682495,
+        -1.2895008325576782
+      ],
+      [
+        0.0,
+        1.0,
+        0.0,
+        0.9905283451080322
+      ],
+      [
+        -0.9961947202682495,
+        0.0,
+        0.08715492486953735,
+        -10.133508682250977
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "objects_info": [
+      {
+        "name": "table",
+        "object_id": "1_4_100",
+        "semantic_id": 100,
+        "color": [
+          "pale reddish-purple",
+          "grayish reddish-brown"
+        ],
+        "color_name": "pale reddish-purple and grayish reddish-brown table",
+        "color_value": [
+          [
+            165,
+            156,
+            149
+          ],
+          [
+            99,
+            68,
+            61
+          ]
+        ],
+        "position": [
+          1.0753200054168701,
+          1.5980205535888672,
+          -8.17367935180664
+        ],
+        "radius": 0.7556099891662598,
+        "visible_pixels": 11629
+      },
+      {
+        "name": "railing",
+        "object_id": "1_8_153",
+        "semantic_id": 153,
+        "color": [
+          "dark reddish-gray",
+          "light brownish-gray"
+        ],
+        "color_name": "dark reddish-gray and light brownish-gray railing",
+        "color_value": [
+          [
+            93,
+            83,
+            74
+          ],
+          [
+            142,
+            129,
+            118
+          ]
+        ],
+        "position": [
+          -3.456779956817627,
+          1.5442099571228027,
+          -4.046309947967529
+        ],
+        "radius": 0.6513409614562988,
+        "visible_pixels": 25696
+      },
+      {
+        "name": "bed",
+        "object_id": "1_0_23",
+        "semantic_id": 23,
+        "color": [
+          "brownish-black",
+          "grayish-olive"
+        ],
+        "color_name": "brownish-black and grayish-olive bed",
+        "color_value": [
+          [
+            26,
+            22,
+            17
+          ],
+          [
+            87,
+            78,
+            64
+          ]
+        ],
+        "position": [
+          -10.071000099182129,
+          1.555830955505371,
+          -8.836318969726562
+        ],
+        "radius": 1.1336801052093506,
+        "visible_pixels": 14905
+      },
+      {
+        "name": "sink",
+        "object_id": "1_1_43",
+        "semantic_id": 43,
+        "color": [
+          "light purplish-gray",
+          "very pale-purple"
+        ],
+        "color_name": "light purplish-gray and very pale-purple sink",
+        "color_value": [
+          [
+            187,
+            188,
+            188
+          ],
+          [
+            208,
+            209,
+            211
+          ]
+        ],
+        "position": [
+          -8.375329971313477,
+          2.0418801307678223,
+          -7.548829078674316
+        ],
+        "radius": 0.24504375457763672,
+        "visible_pixels": 3685
+      }
+    ]
+  },
+  {
+    "task_id": 6,
+    "scene": "UwV83HsGsw3",
+    "map_grid_size": 1000,
+    "map_cell_size": 0.05,
+    "tf_habitat": [
+      [
+        -0.8191535472869873,
+        0.0,
+        0.5735746026039124,
+        -13.109007835388184
+      ],
+      [
+        -0.0,
+        1.0,
+        0.0,
+        1.3905284404754639
+      ],
+      [
+        -0.5735746026039124,
+        -0.0,
+        -0.8191535472869873,
+        -10.236236572265625
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "objects_info": [
+      {
+        "name": "shower",
+        "object_id": "1_21_386",
+        "semantic_id": 386,
+        "color": [
+          "dark grayish-yellow",
+          "dark grayish-yellow"
+        ],
+        "color_name": "dark grayish-yellow and dark grayish-yellow shower",
+        "color_value": [
+          [
+            158,
+            134,
+            101
+          ],
+          [
+            163,
+            138,
+            105
+          ]
+        ],
+        "position": [
+          -1.9998700618743896,
+          2.056640148162842,
+          -6.018929958343506
+        ],
+        "radius": 1.4782600402832031,
+        "visible_pixels": 2
+      },
+      {
+        "name": "toilet",
+        "object_id": "1_1_41",
+        "semantic_id": 41,
+        "color": [
+          "dark purplish-gray",
+          "light grayish yellowish-brown"
+        ],
+        "color_name": "dark purplish-gray and light grayish yellowish-brown toilet",
+        "color_value": [
+          [
+            103,
+            96,
+            83
+          ],
+          [
+            175,
+            159,
+            127
+          ]
+        ],
+        "position": [
+          -6.068220138549805,
+          1.5380702018737793,
+          -7.674769401550293
+        ],
+        "radius": 0.33983802795410156,
+        "visible_pixels": 13383
+      },
+      {
+        "name": "sink",
+        "object_id": "1_1_44",
+        "semantic_id": 44,
+        "color": [
+          "very pale purplish-blue",
+          "very pale-purple"
+        ],
+        "color_name": "very pale purplish-blue and very pale-purple sink",
+        "color_value": [
+          [
+            200,
+            202,
+            208
+          ],
+          [
+            216,
+            219,
+            225
+          ]
+        ],
+        "position": [
+          -8.379980087280273,
+          2.037281036376953,
+          -8.615129470825195
+        ],
+        "radius": 0.23531818389892578,
+        "visible_pixels": 7740
+      },
+      {
+        "name": "chair",
+        "object_id": "1_0_12",
+        "semantic_id": 12,
+        "color": [
+          "greenish-black"
+        ],
+        "color_name": "greenish-black chair",
+        "color_value": [
+          [
+            26,
+            26,
+            29
+          ]
+        ],
+        "position": [
+          -12.963899612426758,
+          1.8563694953918457,
+          -7.129890441894531
+        ],
+        "radius": 0.9543182849884033,
+        "visible_pixels": 33614
+      }
+    ]
+  }
+]

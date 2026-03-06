@@ -1,0 +1,140 @@
+[
+  {
+    "task_id": 0,
+    "scene": "ur6pFq6Qu1A",
+    "map_grid_size": 1000,
+    "map_cell_size": 0.05,
+    "tf_habitat": [
+      [
+        -0.7660437822341919,
+        0.0,
+        0.6427885293960571,
+        -18.026704788208008
+      ],
+      [
+        -0.0,
+        1.0,
+        0.0,
+        0.12697769701480865
+      ],
+      [
+        -0.6427885293960571,
+        -0.0,
+        -0.7660437822341919,
+        -23.31950569152832
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "objects_info": [
+      {
+        "name": "table",
+        "object_id": "0_2_82",
+        "semantic_id": 82,
+        "color": [
+          "dark grayish yellowish-brown"
+        ],
+        "color_name": "dark grayish yellowish-brown table",
+        "color_value": [
+          [
+            72,
+            59,
+            49
+          ]
+        ],
+        "position": [
+          -10.404600143432617,
+          0.950037956237793,
+          -15.031200408935547
+        ],
+        "radius": 2.9901037216186523,
+        "visible_pixels": 487813
+      },
+      {
+        "name": "chair",
+        "object_id": "0_2_95",
+        "semantic_id": 95,
+        "color": [
+          "pinkish-gray",
+          "dark grayish olive-green"
+        ],
+        "color_name": "pinkish-gray and dark grayish olive-green chair",
+        "color_value": [
+          [
+            193,
+            188,
+            182
+          ],
+          [
+            49,
+            46,
+            43
+          ]
+        ],
+        "position": [
+          -10.312999725341797,
+          0.41637611389160156,
+          -20.935897827148438
+        ],
+        "radius": 0.6195354461669922,
+        "visible_pixels": 112713
+      },
+      {
+        "name": "door",
+        "object_id": "0_26_515",
+        "semantic_id": 515,
+        "color": [
+          "dark grayish-brown"
+        ],
+        "color_name": "dark grayish-brown door",
+        "color_value": [
+          [
+            58,
+            52,
+            44
+          ]
+        ],
+        "position": [
+          -9.165109634399414,
+          1.0958213806152344,
+          -20.925798416137695
+        ],
+        "radius": 1.1156702041625977,
+        "visible_pixels": 713191
+      },
+      {
+        "name": "seating",
+        "object_id": "0_26_519",
+        "semantic_id": 519,
+        "color": [
+          "dark grayish-red",
+          "light grayish yellowish-brown"
+        ],
+        "color_name": "dark grayish-red and light grayish yellowish-brown seating",
+        "color_value": [
+          [
+            80,
+            67,
+            57
+          ],
+          [
+            170,
+            150,
+            139
+          ]
+        ],
+        "position": [
+          -11.5108003616333,
+          0.2751293182373047,
+          -24.79829978942871
+        ],
+        "radius": 0.9393558502197266,
+        "visible_pixels": 53050
+      }
+    ]
+  }
+]
